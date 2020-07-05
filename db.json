@@ -1,0 +1,17 @@
+{
+  "contacts": [
+    {
+      "firstName": "Krishna ",
+      "lastName": "Chittodia",
+      "address": "R-8/101, Raj Nagar",
+      "city": "Ghaziabad",
+      "region": "North",
+      "country": "India",
+      "postalCode": "201002",
+      "phone": "9873289403",
+      "email": "krishnachittodia.10@gmail.com",
+      "age": "26",
+      "id": 1
+    }
+  ]
+}
